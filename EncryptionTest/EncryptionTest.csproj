@@ -43,11 +43,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AesEncryptor.cs" />
     <Compile Include="AppLogger.cs" />
+    <Content Include="Docs\memo.txt" />
     <Compile Include="EncryptionExecutor.cs" />
+    <Compile Include="MetadataTlv.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RijndaelEncryptor.cs" />
+    <Content Include="Docs\metadata_specification.txt" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

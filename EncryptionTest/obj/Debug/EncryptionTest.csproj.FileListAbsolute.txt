@@ -5,3 +5,10 @@ D:\git\Repository3\EncryptionTest\obj\Debug\EncryptionTest.csproj.AssemblyRefere
 D:\git\Repository3\EncryptionTest\obj\Debug\EncryptionTest.csproj.CoreCompileInputs.cache
 D:\git\Repository3\EncryptionTest\obj\Debug\EncryptionTest.exe
 D:\git\Repository3\EncryptionTest\obj\Debug\EncryptionTest.pdb
+D:\git\CS_Cycription\EncryptionTest\bin\Debug\EncryptionTest.exe.config
+D:\git\CS_Cycription\EncryptionTest\bin\Debug\EncryptionTest.exe
+D:\git\CS_Cycription\EncryptionTest\bin\Debug\EncryptionTest.pdb
+D:\git\CS_Cycription\EncryptionTest\obj\Debug\EncryptionTest.csproj.AssemblyReference.cache
+D:\git\CS_Cycription\EncryptionTest\obj\Debug\EncryptionTest.csproj.CoreCompileInputs.cache
+D:\git\CS_Cycription\EncryptionTest\obj\Debug\EncryptionTest.exe
+D:\git\CS_Cycription\EncryptionTest\obj\Debug\EncryptionTest.pdb
