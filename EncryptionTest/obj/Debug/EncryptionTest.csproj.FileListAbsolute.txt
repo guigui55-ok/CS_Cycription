@@ -1,0 +1,7 @@
+D:\git\Repository3\EncryptionTest\bin\Debug\EncryptionTest.exe.config
+D:\git\Repository3\EncryptionTest\bin\Debug\EncryptionTest.exe
+D:\git\Repository3\EncryptionTest\bin\Debug\EncryptionTest.pdb
+D:\git\Repository3\EncryptionTest\obj\Debug\EncryptionTest.csproj.AssemblyReference.cache
+D:\git\Repository3\EncryptionTest\obj\Debug\EncryptionTest.csproj.CoreCompileInputs.cache
+D:\git\Repository3\EncryptionTest\obj\Debug\EncryptionTest.exe
+D:\git\Repository3\EncryptionTest\obj\Debug\EncryptionTest.pdb
